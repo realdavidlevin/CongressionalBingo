@@ -1,0 +1,19 @@
+{
+  "name": "Congressional Bingo",
+  "short_name": "CongressBingo",
+  "version": "1.0.0",
+  "description": "Gamified Judiciary hearing tracker.",
+  "developer_name": "DaveTheLawyer",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#ff0000"
+}
